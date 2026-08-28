@@ -1,0 +1,4 @@
+serie,n,período,transformación,d,D,s,n tras diferenciar,modelo base
+nieve,471,1986-01 a 2025-03,log,0,0,12,471,"SARIMA(p,0,q)(P,0,Q)[12]"
+savi,105,2016-07 a 2025-03,ninguna,1,1,12,92,"SARIMA(p,1,q)(P,1,Q)[12]"
+agua,105,2016-07 a 2025-03,ninguna,1,0,12,104,"SARIMA(p,1,q)(P,0,Q)[12]"

@@ -1,0 +1,4 @@
+serie,modelo,AIC (train),BIC (train),MAE test,RMSE test,sMAPE test %,AIC (serie completa)
+nieve,"SARIMA(3, 0, 1)x(1, 0, 1, 12)",1484.092,1512.81,2887.1,4166.343,119.461,1561.696
+savi,"SARIMA(0, 1, 1)x(0, 1, 1, 12)",-372.766,-365.62,0.037,0.042,19.558,-429.462
+agua,"SARIMA(1, 1, 1)x(1, 0, 1, 12)",938.134,950.743,64.241,67.463,84.871,1049.634

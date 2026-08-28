@@ -1,0 +1,4 @@
+serie,MAE,RMSE,sMAPE %,orden_VAR,n_estimacion
+nieve,1363.78,1880.674,114.248,1,92
+savi,0.038,0.043,22.194,1,92
+agua,34.054,36.797,58.758,1,92
